@@ -1,0 +1,1 @@
+I did an NLP project on SMS spam detection using a Kaggle dataset. I cleaned and preprocessed the data with NLTK, removed stopwords, and applied TF-IDF vectorization. I encoded the labels, split the dataset, and trained a Naive Bayes classifier. The model performed well, achieving over 97% accuracy, and showed strong precision and recall in detecting spam messages.
